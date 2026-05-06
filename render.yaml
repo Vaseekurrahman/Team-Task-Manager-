@@ -1,6 +1,1 @@
-services:
-  - type: web
-    name: team-task-manager
-    env: java
-    buildCommand: ./mvnw clean package -DskipTests
-    startCommand: java -jar target/*.jar
+
